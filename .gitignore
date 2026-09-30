@@ -43,3 +43,9 @@ py\.typed
 .mypy_cache
 nanobind-backend/build/
 nanobind-backend/dist/
+
+
+# HH
+_rez_build
+.vscode
+.idea
